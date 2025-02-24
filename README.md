@@ -2,7 +2,7 @@
 
 
 
-Me chamo Sidnei Santos! Sou um programador em constante aprendizado e evolução qual no momento estou desenvolvendo minhas
+Me chamo Sidnei Santos! Sou um programador em constante aprendizado e evolução e no momento estou desenvolvendo minhas
 habilidades e criatividade com projetos em:
 <br>
 <br>
